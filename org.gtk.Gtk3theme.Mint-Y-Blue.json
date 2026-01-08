@@ -2,7 +2,7 @@
   "id": "org.gtk.Gtk3theme.Mint-Y-Blue",
   "branch": "3.22",
   "runtime": "org.freedesktop.Platform",
-  "runtime-version": "25.08",
+  "runtime-version": "23.08",
   "sdk": "org.freedesktop.Sdk",
   "build-extension": true,
   "appstream-compose": false,
